@@ -1,0 +1,2 @@
+class MatchedAnswersController < ApplicationController
+end
